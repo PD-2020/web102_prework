@@ -4,7 +4,7 @@ Submitted by: **Pazilat Dilshat**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **10** hours spent in total
+Time spent: **13** hours spent in total
 
 ## Required Features
 
@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/d3ae9c855688472185726dafea8c8264' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='web102WalkThroughPrework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-[Loom](https://www.loom.com/looms/videos) for macOS
+[LICEcap](https://www.cockos.com/licecap/) for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,7 +35,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building 
+the app.
+
+Implementing the different JS functions.
+Setting up GIT on my new Mac.
 
 ## License 
 

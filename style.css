@@ -36,7 +36,9 @@ body {
     text-align: center;
 }
 
-#num-contributions, #total-raised, #num-games {
+#num-contributions,
+#total-raised,
+#num-games {
     font-size: 50px;
 }
 
@@ -80,30 +82,30 @@ button {
 
 
 /* Navbar styles */
-#navbar  {
-  z-index: 1000;
-  list-style-type: none;
-  overflow: hidden;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: #5c93d7;
-  margin-top: 0;
+#navbar {
+    z-index: 1000;
+    list-style-type: none;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #5c93d7;
+    margin-top: 0;
 }
 
 #navbar a {
-  float: left;
-  margin: 5px;
+    float: left;
+    margin: 5px;
 }
 
 
 #navbar a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 #navbar a:hover {
-  color: lightblue;
+    color: lightblue;
 }
