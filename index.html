@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width">
     <link href="style.css" rel="stylesheet" type="text/css" />
-  </head>
+</head>
 
-  <body>
+<body>
+    <nav id="navbar">
+        <a href="#games-section">Our Games</a>
+    </nav>
     <!-- header row with logo -->
     <div class="header">
         <img id="tentacles" src="assets/tentacles.png">
@@ -48,7 +52,7 @@
     </div>
 
     <!-- list of games funded by Sea Monster -->
-    <h2>Our Games</h2>
+    <h2 id="games-section">Our Games</h2>
     <p>Check out each of our games below!</p>
     <div id="button-container">
         <button id="unfunded-btn">Show Unfunded Only</button>
@@ -59,6 +63,7 @@
 
     </div>
 
-    <script type="module" src="index.js"></script>
-  </body>
+    <script type="module" src="index.js" defer></script>
+</body>
+
 </html>
